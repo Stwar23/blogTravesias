@@ -1,0 +1,6 @@
+.form-input-material input:valid + label,
+.form-input-material input:focus + label {
+    transform: translateY();
+    font-size: 14px;
+    transform: translate(0, -10px)
+}

@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card {
+    background-color: #d3ebfa56;
+    background-image: linear-gradient(135deg, #2efc722f 0%, #9599e2a8 100%);
+    border-radius: 10px;
+    backdrop-filter: blur(10px); /* Efecto de desenfoque */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Sombra para resaltar el contenedor */
+    font-weight: 500;
+}
